@@ -5,7 +5,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Pozdrav iz aplikacije od Mihaele Mandic, 0165078948\n";
+=======
+    std::cout << "Pozdrav iz aplikacije od Mihaele Mandic\n";
+>>>>>>> 6ba1cff (dodana poruka za ispis u Visual Studiu)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
